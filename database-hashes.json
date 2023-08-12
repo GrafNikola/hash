@@ -1,0 +1,33 @@
+{
+    "files": {
+        "acc_benefits/acc_benefits-EU-EN.tsv": "f499a07ea06c37b36a6d94e2abb6aa137789496f23883855d1a6c52474dcd269",
+        "achi_grade/achi_grade-EU-EN.tsv": "dbe5b1a072ed233b31db14fa115ddcad7e4f39291a8b3128bc9b63ef2362e422",
+        "achievements/achievements-EU-EN.tsv": "2095a3b9cbc916dfd8dd246ec306dcbc293db0aa156281358a2584980ab08b92",
+        "default-dungeon-defs.tsv": "4962aa372b67922587376262e17296fdcc49bfbd58ba93784219cf9ad8e38e8c",
+        "dungeons/dungeons-EU-EN.tsv": "48d874bc992044b21adfea8e3eade8218d3ec3fa8313d3187c8497dd08815511",
+        "equip_exp/equip_exp-EU-EN.xml": "13230a667e070777a44108c269670cc47e95ab8a25bc0604cc5daea5a9f06211",
+        "guild_quests/guild_quests-EU-EN.tsv": "87f6d14d1659c60ed1346448276f3a3daad5662da3b43a45ae03a880f954b08e",
+        "hotdot/abnormal.tsv": "1ad9421d118b02be4e4478dcf3562eeebac74c33b5cb3e43d039eacc0b51e9fd",
+        "hotdot/glyph-EU-EN.tsv": "46ea5f2cc199fd2f3def6ab9828d615500dae3795aef1168275813c420823b66",
+        "hotdot/hotdot-EU-EN.tsv": "6d2ed8d415b1ad3ffbc1e7030c8e55d1a975968f8a7e9461de4fa815ea59b750",
+        "items/items-EU-EN.tsv": "c63abb54408ababb0d09a4a9dddad9bdd1b10bfe544e80fcc64cf3e83f7e9af2",
+        "module.json": "6785eea3645e238d90d87451079ddf1af5908670128a49896ff0e14acbf9097d",
+        "monsters/monsters-EU-EN.xml": "02b212a7dbc4f9c9f275914d556a8fca15c636ad40ccb6ba9397891047de2eb8",
+        "monsters/monsters-override.xml": "7c34f4392f21c6bcd4edd706a2d74cc9aa5ac8c7ef6bfdbd5820791655cc1b3b",
+        "quests/quests-EU-EN.tsv": "b0490121c4e6aafa12f195ac10407c67da926d1af45ed81cb30c48810566a935",
+        "regions/regions-EU-EN.tsv": "2f01313622b4dca8072533022322ce422bd2db4480b84e21eb24508e2dce33cc",
+        "section_images.tsv": "303863ecd63a566547b609670aab15501eaf513254f38f5444f1878a2ff4b36a",
+        "skills/pets-skills-EU-EN.tsv": "90fe5f303f01a8d89e0cf93c208b06943038e2c979b3922c83877ea912b763e4",
+        "skills/skills-EU-EN.tsv": "fbce4b1c19f9e42367e51f40a371f1ef0ea0da0766fe1781056695ade0ca6f58",
+        "skills/skills-override-EU-EN.tsv": "643826304f62ffc9f7502a8134d1bdd1c3803eb87407069ca0308cd8e9f1d69c",
+        "skills/skills-override-EU-FR.tsv": "89cd09961249eafdcfb81ad54869dc7733fc3938f0d614f7a57514742d3a5780",
+        "skills/skills-override-EU-GER.tsv": "ba0d9d8ac67d8b7302679f5d7f1b41f70264bc48a9541a2bd18de8c9f039ebbc",
+        "skills/skills-override-JP.tsv": "fad8da1717cd29155071afd3a0ab4b8b2f6ad3accf33a5a86cfe1a0be6f25f8f",
+        "skills/skills-override-KR.tsv": "c023dbfdd9a404e077cda08aef4e97c87e7b3c52cefc683a779576b2228b2289",
+        "skills/skills-override-RU.tsv": "d9d127f273f02b80315e8ff72d56d36ec11565b616b98ef2f1e46ceb0b87825b",
+        "skills/skills-override-TW.tsv": "6b3c024db8aef657d3c0f4e5f4cd9d17b2cafdbd148d0003b828a9c74924e235",
+        "social/social-EU-EN.tsv": "f04a3f3c6679a71657a03236c5e82f4fd8a58d76f7a5fe06ccdb3ec8b4697949",
+        "sys_msg/sys_msg-EU-EN.tsv": "c0455e0fd4ba1d057e8bfa397ba7c30adfc032300bd099bf35eb348e4136628a",
+        "world_map/world_map-EU-EN.xml": "142b024e0b09a371ed9b4dfffb057c0569d1831590cdd98cdfbecf587b526580"
+    }
+}
